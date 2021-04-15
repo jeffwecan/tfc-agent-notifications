@@ -1,0 +1,6 @@
+ddtrace
+flask
+gevent
+gunicorn
+py-healthcheck
+python-nomad

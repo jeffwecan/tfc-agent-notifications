@@ -1,0 +1,21 @@
+{
+  "payload_version": 1,
+  "notification_configuration_id": "nc-nK2iyaGAW8yUUB6M",
+  "run_url": "https://app.terraform.io/app/some-org/infrastructure-dev/runs/run-qRFqweDUyLdf7J5R",
+  "run_id": "run-qRFqweDUyLdf7J5R",
+  "run_message": "Queued manually in Terraform Cloud",
+  "run_created_at": "2021-04-14T16:49:00.000Z",
+  "run_created_by": "jeffwecan",
+  "workspace_id": "ws-h1234e8JC7Wn9YHf",
+  "workspace_name": "infrastructure-dev",
+  "organization_name": "some-org",
+  "notifications": [
+    {
+      "message": "Run Planned and Finished",
+      "trigger": "run:completed",
+      "run_status": "pending",
+      "run_updated_at": "2021-04-14T16:50:34.000Z",
+      "run_updated_by": null
+    }
+  ]
+}
